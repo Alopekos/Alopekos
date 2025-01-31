@@ -31,11 +31,20 @@ I'm a passionate developer currently on a journey to become an app developer at 
 - <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
   <img src="https://img.icons8.com/color/20/000000/vue-js.png" alt="Vue.js" style="vertical-align: middle; margin-right: 5px;"/> Vue.js
 </div>
-
-### Back-end
+- <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;"> <img src="https://img.icons8.com/color/20/000000/angularjs.png" alt="Angular" style="vertical-align: middle; margin-right: 5px;"/> Angular
+  
+### Back-end and others
 - <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">
   <img src="https://img.icons8.com/color/20/000000/php.png" alt="PHP" style="vertical-align: middle; margin-right: 5px;"/> PHP
 </div>
+
+- <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;"> <img src="https://img.icons8.com/color/20/000000/spring-logo.png" alt="Spring Boot" style="vertical-align: middle; margin-right: 5px;"/> Spring Boot
+
+- <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;"> <img src="https://img.icons8.com/color/20/000000/c-plus-plus-logo.png" alt="C++" style="vertical-align: middle; margin-right: 5px;"/> C++
+
+- <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;"> <img src="https://img.icons8.com/color/20/000000/c-programming.png" alt="C" style="vertical-align: middle; margin-right: 5px;"/> C
+
+- <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;"> <img src="https://img.icons8.com/color/20/000000/gdscript.png" alt="GDScript" style="vertical-align: middle; margin-right: 5px;"/> GDScript
 
 - <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">
   <img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align: middle; margin-right: 5px;"/> Java
@@ -59,7 +68,7 @@ I'm a passionate developer currently on a journey to become an app developer at 
 </div>
 
 - <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">
-  <img src="https://img.icons8.com/color/20/000000/linux.png" alt="Linux" style="vertical-align: middle; margin-right: 5px;"/> Linux (Ubuntu)
+  <img src="https://img.icons8.com/color/20/000000/linux.png" alt="Linux" style="vertical-align: middle; margin-right: 5px;"/> Linux
 </div>
 
 - <div href="#" style="display: inline-block; padding: 10px; margin: 5px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">
